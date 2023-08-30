@@ -1,0 +1,388 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.1)  22 SEP 2020 19:01
+entering extended mode
+**"./Report for lab1,2.tex"
+("Report for lab1,2.tex"
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+) ("Report for lab1,2.aux")
+\openout1 = `"Report for lab1,2.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) [1
+
+{C:/Users/HIBIKI/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+<../Lab3,4/HW for lab 3,4/LAB3/LAB3 HW.png, id=7, 729.32475pt x 370.38374pt>
+File: ../Lab3,4/HW for lab 3,4/LAB3/LAB3 HW.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB3/LAB3 HW.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB3/LAB3 HW.png  used on inp
+ut line 22.
+(pdftex.def)             Requested size: 437.59822pt x 222.23195pt.
+
+Overfull \hbox (47.59822pt too wide) in paragraph at lines 20--23
+[] 
+ []
+
+[1 <../Lab3,4/HW for lab 3,4/LAB3/LAB3 HW.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+<../Lab3,4/HW for lab 3,4/LAB3/Block_diagram.png, id=12, 1004.553pt x 343.2825p
+t>
+File: ../Lab3,4/HW for lab 3,4/LAB3/Block_diagram.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB3/Block_diagram.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB3/Block_diagram.png  used 
+on input line 28.
+(pdftex.def)             Requested size: 502.27527pt x 171.64082pt.
+
+Overfull \hbox (129.90009pt too wide) in paragraph at lines 28--30
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+[2
+
+ <../Lab3,4/HW for lab 3,4/LAB3/Block_diagram.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+<../Lab3,4/HW for lab 3,4/LAB3/Input.png, id=16, 1156.32pt x 650.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB3/Input.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB3/Input.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB3/Input.png  used on input
+ line 37.
+(pdftex.def)             Requested size: 462.5198pt x 260.16739pt.
+
+Overfull \hbox (72.5198pt too wide) in paragraph at lines 37--38
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[3
+
+ <../Lab3,4/HW for lab 3,4/LAB3/Input.png>]
+<../Lab3,4/HW for lab 3,4/LAB3/Scope.png, id=22, 1156.32pt x 650.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB3/Scope.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB3/Scope.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB3/Scope.png  used on input
+ line 45.
+(pdftex.def)             Requested size: 462.5198pt x 260.16739pt.
+<../Lab3,4/HW for lab 3,4/LAB3/Plot.png, id=23, 1156.32pt x 650.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB3/Plot.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB3/Plot.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB3/Plot.png  used on input 
+line 46.
+(pdftex.def)             Requested size: 462.5198pt x 260.16739pt.
+
+Overfull \hbox (90.14462pt too wide) in paragraph at lines 45--47
+[][] 
+ []
+
+
+Overfull \hbox (72.5198pt too wide) in paragraph at lines 45--47
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[4
+
+ <../Lab3,4/HW for lab 3,4/LAB3/Scope.png> <../Lab3,4/HW for lab 3,4/LAB3/Plot.
+png>]
+<../Lab3,4/HW for lab 3,4/LAB4/LAB4 HW.png, id=27, 720.89325pt x 475.17525pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/LAB4 HW.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/LAB4 HW.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/LAB4 HW.png  used on inp
+ut line 57.
+(pdftex.def)             Requested size: 432.53929pt x 285.10735pt.
+
+Overfull \hbox (60.16411pt too wide) in paragraph at lines 57--58
+[][] 
+ []
+
+[5 <../Lab3,4/HW for lab 3,4/LAB4/LAB4 HW.png>]
+<../Lab3,4/HW for lab 3,4/LAB4/Block_diagram_PID_controller.png, id=31, 1156.32
+pt x 650.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/Block_diagram_PID_controller.png Graphic fi
+le (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/Block_diagram_PID_controller.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/Block_diagram_PID_contro
+ller.png  used on input line 65.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+File: ../Lab3,4/HW for lab 3,4/LAB3/Input.png Graphic file (type png)
+<use ../Lab3,4/HW for lab 3,4/LAB3/Input.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB3/Input.png  used on input
+ line 70.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+[6
+
+ <../Lab3,4/HW for lab 3,4/LAB4/Block_diagram_PID_controller.png>]
+<../Lab3,4/HW for lab 3,4/LAB4/Error_1_No_controller.png, id=36, 1156.32pt x 65
+0.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/Error_1_No_controller.png Graphic file (typ
+e png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/Error_1_No_controller.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/Error_1_No_controller.pn
+g  used on input line 76.
+(pdftex.def)             Requested size: 462.5198pt x 260.16739pt.
+
+Overfull \hbox (90.14462pt too wide) in paragraph at lines 76--77
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+[7 <../Lab3,4/HW for lab 3,4/LAB4/Error_1_No_controller.png>]
+<../Lab3,4/HW for lab 3,4/LAB4/Error_2_P_controller.png, id=40, 1156.32pt x 650
+.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/Error_2_P_controller.png Graphic file (type
+ png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/Error_2_P_controller.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/Error_2_P_controller.png
+  used on input line 83.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+<../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_2_P_controller.png, id=41, 1156.32pt x 65
+0.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_2_P_controller.png Graphic file (typ
+e png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_2_P_controller.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_2_P_controller.pn
+g  used on input line 84.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+[8
+
+ <../Lab3,4/HW for lab 3,4/LAB4/Error_2_P_controller.png> <../Lab3,4/HW for lab
+ 3,4/LAB4/OUTPUT_2_P_controller.png>]
+<../Lab3,4/HW for lab 3,4/LAB4/ERROR_3_PI_controller.png, id=45, 1156.32pt x 65
+0.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/ERROR_3_PI_controller.png Graphic file (typ
+e png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/ERROR_3_PI_controller.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/ERROR_3_PI_controller.pn
+g  used on input line 92.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+<../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_3_PI_controller.png, id=46, 1156.32pt x 6
+50.43pt>
+File: ../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_3_PI_controller.png Graphic file (ty
+pe png)
+<use ../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_3_PI_controller.png>
+Package pdftex.def Info: ../Lab3,4/HW for lab 3,4/LAB4/OUTPUT_3_PI_controller.p
+ng  used on input line 93.
+(pdftex.def)             Requested size: 346.89868pt x 195.1305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+[9
+
+ <../Lab3,4/HW for lab 3,4/LAB4/ERROR_3_PI_controller.png> <../Lab3,4/HW for la
+b 3,4/LAB4/OUTPUT_3_PI_controller.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[10
+
+] ("Report for lab1,2.aux") ) 
+Here is how much of TeX's memory you used:
+ 1716 strings out of 492483
+ 24439 string characters out of 3121137
+ 85909 words of memory out of 3000000
+ 6073 multiletter control sequences out of 15000+200000
+ 9933 words of font info for 36 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,23p,508b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/HIBIKI/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HIBIKI/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/HIBIKI/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
+/HIBIKI/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.
+pfb><C:/Users/HIBIKI/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb>
+Output written on "Report for lab1,2.pdf" (11 pages, 786706 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

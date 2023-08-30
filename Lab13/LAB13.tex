@@ -1,0 +1,78 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{CJKutf8}
+\title{Report for OSLAB}
+\date{2021/6/22}
+\author{葉舜良 \\ 4107064003}
+
+\begin{document}
+\begin{CJK*}{UTF8}{bsmi}
+\begin{titlepage}
+
+\maketitle
+\end{titlepage}
+
+\end{CJK*}
+\section{Introduction}
+This is the final project for OSlab 
+which illustrates about how to program tracked car to follow the black line by itself.
+
+
+\section{Following the black line}
+\subsection{Image of the car}
+1.Feed in the instant image from the camera of car, install this camera in the front of the car pointing forward. \\\\
+2.Process the image with openCV and the change of perspective algorithm taught in Lab\\\\
+3.After the change of perspective, again process the image with cv2 by thresholding it.\\\\
+4.Taking the thresholded image, then compare if the centroid of the image is on the darker side of image or not.\\\\
+5.Coordinate the movements of the car with the image provided to make it follow the line.\\\\
+ 
+\subsection{Motor controls of the tracked car}
+1.Starts the motor then feed in and process the image according to the description of the image part\\\\
+2.According to the processed image, determine if the centroid is on the darker part of the image.\\\\
+2-0.If the centroid is on the processed black line, make the track car move forward, i.e increase the power of both motor. \\\\
+
+2-1.If the centroid is on the left side of the processed black line, make the car turn right, i.e increase the power of left motor.\\\\
+2-2.If the centroid is on the right side of the processed black line, make the car turn left, i.e increase the power of the left motor.\\\\
+
+
+\section{Code of Raspberry Pi}
+According to the given program of the motor control for the tracked car.\\
+\\
+Input:Processed image from PC = image. \\
+Output:The control of vehicle  = movement.\\
+Functions: Movements(image) + functions for controlling the track car in PWM110.py\\
+Termination: Keyboard interrupt or a setted duration of time where there is no black line within image.\\\\
+1.While we start the car, we should put it right on the track with camera opened.\\
+2.The image captured by the camera would be fed to the PC for processing.\\
+3.The PC would send the processed image back.\\
+4.According to the processed image, as described in the motor controls of the tracked car, implement the function to the relative car movements.\\
+5. While there's no keyboard interruption and no black line within the fed image.Do the following.\\
+5-0.If the centroid is on the processed black line, make the track car move forward, i.e increase the power of both motor. \\\\
+5-1.If the centroid is on the left side of the processed black line, make the car turn right, i.e increase the power of left motor.\\\\
+5-2.If the centroid is on the right side of the processed black line, make the car turn left, i.e increase the power of the left motor.\\\\
+5-3.If no black line existed in the image, reverse, and start the timer.\\\\
+5-3-1. If no black line existed in the image for a given amount of time,stop the engine and terminate the program.\\\\
+5-3-2. If there is black line break from 5-3.\\\\
+Repeating 5.\\\\
+
+\section{Code of PC} 
+According to the given program learnt from the course.\\
+Input:Image from camera on car, keyboard interruption\\
+Output: Processed image or termination\\\\
+1.We processed the image with Opencv as described in the image part.
+1-1.Thresholding the image.\\
+1-2.Determine the centroid of the image.\\
+1-3.Determine which instructions should be given to motors.\\
+1-4.Coordinating the raspberry pi.\\
+Repeat 1 unless there's keyboard interruption or idle of system or no black line existed in the image for a duration of time.
+
+\cleardoublepage
+\section{Conclusion}
+This is the method I come up with for implementing the movement of a certain tracked vehicle, although it is far from perfection also the reliability of the program is also a question since I could not test it out without the vehicle.If possible, I would also like to implement the prediction system into the algorithm I proposed. I.e let the PC saved the image from the past, if the car lost track of the black line,the car would try to reverse back according to the previous images. Nevertheless, this is a great course with great TAs. I have learnt a lot this semester. Thanks~
+
+\begin{center} 
+This concludes the Final project of OSLAB\\
+\end{center}
+
+\end{document} 

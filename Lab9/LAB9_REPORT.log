@@ -1,0 +1,326 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.1)  17 NOV 2020 17:15
+entering extended mode
+**./LAB9_REPORT.tex
+(LAB9_REPORT.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx
+.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.s
+ty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics
+.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\grap
+hics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdft
+ex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+No file LAB9_REPORT.aux.
+\openout1 = `LAB9_REPORT.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-
+pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+)
+("C:\Users\HIBIKI\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epst
+opdf-base.sty"
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+) [1
+
+{C:/Users/HIBIKI/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+<../Lab9/Pictures/hw1.png, id=7, 703.428pt x 393.26926pt>
+File: ../Lab9/Pictures/hw1.png Graphic file (type png)
+<use ../Lab9/Pictures/hw1.png>
+Package pdftex.def Info: ../Lab9/Pictures/hw1.png  used on input line 25.
+(pdftex.def)             Requested size: 351.71313pt x 196.63414pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+[1 <../Lab9/Pictures/hw1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+<../Lab9/Pictures/code1.png, id=12, 923.8515pt x 244.5135pt>
+File: ../Lab9/Pictures/code1.png Graphic file (type png)
+<use ../Lab9/Pictures/code1.png>
+Package pdftex.def Info: ../Lab9/Pictures/code1.png  used on input line 32.
+(pdftex.def)             Requested size: 461.92462pt x 122.25644pt.
+
+Overfull \hbox (89.54944pt too wide) in paragraph at lines 32--33
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+<../Lab9/Pictures/output1.png, id=13, 984.67876pt x 569.7285pt>
+File: ../Lab9/Pictures/output1.png Graphic file (type png)
+<use ../Lab9/Pictures/output1.png>
+Package pdftex.def Info: ../Lab9/Pictures/output1.png  used on input line 36.
+(pdftex.def)             Requested size: 492.33817pt x 284.86356pt.
+
+Overfull \hbox (102.33817pt too wide) in paragraph at lines 36--37
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+[2
+
+ <../Lab9/Pictures/code1.png> <../Lab9/Pictures/output1.png>]
+<../Lab9/Pictures/hw2.png, id=17, 690.1785pt x 462.528pt>
+File: ../Lab9/Pictures/hw2.png Graphic file (type png)
+<use ../Lab9/Pictures/hw2.png>
+Package pdftex.def Info: ../Lab9/Pictures/hw2.png  used on input line 48.
+(pdftex.def)             Requested size: 345.08841pt x 231.26343pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+<../Lab9/Pictures/code2.png, id=18, 786.5385pt x 309.5565pt>
+File: ../Lab9/Pictures/code2.png Graphic file (type png)
+<use ../Lab9/Pictures/code2.png>
+Package pdftex.def Info: ../Lab9/Pictures/code2.png  used on input line 55.
+(pdftex.def)             Requested size: 330.34392pt x 130.01283pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[3
+
+
+ <../Lab9/Pictures/hw2.png> <../Lab9/Pictures/code2.png>]
+<../Lab9/Pictures/output2.png, id=24, 987.69pt x 292.09125pt>
+File: ../Lab9/Pictures/output2.png Graphic file (type png)
+<use ../Lab9/Pictures/output2.png>
+Package pdftex.def Info: ../Lab9/Pictures/output2.png  used on input line 61.
+(pdftex.def)             Requested size: 493.8438pt x 146.04526pt.
+
+Overfull \hbox (121.46861pt too wide) in paragraph at lines 61--62
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+<../Lab9/Pictures/hw3.png, id=25, 655.248pt x 358.941pt>
+File: ../Lab9/Pictures/hw3.png Graphic file (type png)
+<use ../Lab9/Pictures/hw3.png>
+Package pdftex.def Info: ../Lab9/Pictures/hw3.png  used on input line 67.
+(pdftex.def)             Requested size: 327.6232pt x 179.47005pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+[4 <../Lab9/Pictures/output2.png> <../Lab9/Pictures/hw3.png>]
+<../Lab9/Pictures/code3.png, id=30, 1105.731pt x 198.14024pt>
+File: ../Lab9/Pictures/code3.png Graphic file (type png)
+<use ../Lab9/Pictures/code3.png>
+Package pdftex.def Info: ../Lab9/Pictures/code3.png  used on input line 74.
+(pdftex.def)             Requested size: 552.86415pt x 99.06987pt.
+
+Overfull \hbox (180.48897pt too wide) in paragraph at lines 74--75
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+<../Lab9/Pictures/output3.png, id=31, 1000.33725pt x 563.706pt>
+File: ../Lab9/Pictures/output3.png Graphic file (type png)
+<use ../Lab9/Pictures/output3.png>
+Package pdftex.def Info: ../Lab9/Pictures/output3.png  used on input line 80.
+(pdftex.def)             Requested size: 400.1278pt x 225.4784pt.
+
+Overfull \hbox (27.75262pt too wide) in paragraph at lines 80--81
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+[5 <../Lab9/Pictures/code3.png> <../Lab9/Pictures/output3.png>] [6]
+(LAB9_REPORT.aux) ) 
+Here is how much of TeX's memory you used:
+ 1694 strings out of 492483
+ 22274 string characters out of 3121137
+ 85904 words of memory out of 3000000
+ 6057 multiletter control sequences out of 15000+200000
+ 9626 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,23p,356b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/HIBIKI/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HIBIKI/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HIBIKI/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/HIBIKI/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/U
+sers/HIBIKI/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r12.pfb><C:/Users/HIBIKI/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr17.pfb>
+Output written on LAB9_REPORT.pdf (7 pages, 433119 bytes).
+PDF statistics:
+ 59 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
